@@ -1,0 +1,33 @@
+.sou{
+    background-image: url(triangles-1430105_1280.png);
+    background-color: blue;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.dd{
+    background-color:aqua;
+    height:500px;
+    width: 500px;
+    border: 10px solid blue;
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+p{
+ text-align: center;
+ text-emphasis-style:initial;
+}
+.input{ 
+    border: none;
+  margin-left:100px;
+  background-color: aqua;
+  border-bottom: 3px solid black;
+  width: 300px;
+}
+.ee{
+  background-color: aqua;
+    margin-left: 200px; 
+}
